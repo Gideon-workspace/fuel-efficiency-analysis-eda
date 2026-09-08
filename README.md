@@ -45,7 +45,6 @@ Vehicle fuel logging platforms often suffer from noisy, user-submitted data. Thi
 ## 📂 Repository Structure
 
 ```text
-├── data/                  # Raw and processed datasets
 ├── source_code/             # Exploratory notebooks with full-scale visual plots
 ├── Fuel_efficiency_Report.pdf       # Formal academic preprint & detailed findings report
 └── README.md              # Project documentation
