@@ -1,6 +1,6 @@
 # Fuel Logbook Analytics & EDA 🚗⚓📊
 
-![Fuel Logbook Analytics Header](https://raw.githubusercontent.com/placeholder/fuel-logbook-eda/main/assets/header-preview.png)
+![Fuel Logbook Analytics Header](./18140.png)
 
 A comprehensive data science pipeline for cleaning, transforming, and statistically analyzing a global dataset of vehicle fuel logs. This project addresses common real-world data issues—including mixed currencies, missing values, locale unit differences, and corrupted inputs—to extract insights on vehicle efficiency and driver behavior.
 
@@ -30,7 +30,7 @@ Vehicle fuel logging platforms often suffer from noisy, user-submitted data. Thi
 
 ## 🔍 Key Findings & Highlights
 
-![Feature Importance Plot](https://raw.githubusercontent.com/placeholder/fuel-logbook-eda/main/assets/feature-importance.png)
+![Feature Importance Plot](./output.png)
 
 * **Primary Driver of Fuel Efficiency:** Random Forest feature importances and ANOVA tests ($\eta^2 = 0.577$, $p < 0.000001$) confirmed that **vehicle model** is the single most decisive factor determining fuel consumption ($\text{L/100km}$)[cite: 1].
 * **Outlier Removal Precision:** Filtered **12.32%** of top-currency transactions across three structured cleaning layers (reclaiming mislabelled USD/ZAR records, verifying total spent integrity, and enforcing physical bounds)[cite: 1].
@@ -41,9 +41,7 @@ Vehicle fuel logging platforms often suffer from noisy, user-submitted data. Thi
 ## 📂 Repository Structure
 
 ```text
-├── assets/                # Visualizations and banner graphics
 ├── data/                  # Raw and processed datasets
-├── notebooks/             # Exploratory notebooks with full-scale visual plots
-├── Assignment_1.pdf       # Formal academic preprint & detailed findings report
-├── requirements.txt       # Python dependencies
+├── source_code/             # Exploratory notebooks with full-scale visual plots
+├── Fuel_efficiency_Report.pdf       # Formal academic preprint & detailed findings report
 └── README.md              # Project documentation
