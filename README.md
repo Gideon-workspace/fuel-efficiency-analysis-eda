@@ -6,10 +6,10 @@ A comprehensive data science pipeline for cleaning, transforming, and statistica
 
 ---
 ## 📌 Group Members
-* **Sinethemba Nani
-* **Nokukhanya Nkosi 
-* **Dolf Shungube 
-* **Mashego Mabeloane 
+* **Sinethemba Nani**
+* **Nokukhanya Nkosi** 
+* **Dolf Shungube** 
+* **Mashego Mabeloane** 
 ## 📌 Project Overview
 
 Vehicle fuel logging platforms often suffer from noisy, user-submitted data. This repository provides an end-to-end Exploratory Data Analysis (EDA) and cleaning pipeline designed to process real-world fill-up records. Key analysis areas include:
