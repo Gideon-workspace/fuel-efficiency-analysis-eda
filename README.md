@@ -1,6 +1,6 @@
 # Fuel Logbook Analytics & EDA 🚗⚓📊
 
-![Fuel Logbook Analytics Header](./18140.png)
+![Fuel Logbook Analytics Header](./18140.jpg)
 
 A comprehensive data science pipeline for cleaning, transforming, and statistically analyzing a global dataset of vehicle fuel logs. This project addresses common real-world data issues—including mixed currencies, missing values, locale unit differences, and corrupted inputs—to extract insights on vehicle efficiency and driver behavior.
 
