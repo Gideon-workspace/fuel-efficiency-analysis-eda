@@ -5,7 +5,11 @@
 A comprehensive data science pipeline for cleaning, transforming, and statistically analyzing a global dataset of vehicle fuel logs. This project addresses common real-world data issues—including mixed currencies, missing values, locale unit differences, and corrupted inputs—to extract insights on vehicle efficiency and driver behavior.
 
 ---
-
+## 📌 Group Members
+* **Sinethemba Nani
+* **Nokukhanya Nkosi 
+* **Dolf Shungube 
+* **Mashego Mabeloane 
 ## 📌 Project Overview
 
 Vehicle fuel logging platforms often suffer from noisy, user-submitted data. This repository provides an end-to-end Exploratory Data Analysis (EDA) and cleaning pipeline designed to process real-world fill-up records. Key analysis areas include:
